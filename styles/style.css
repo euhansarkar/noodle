@@ -9,6 +9,26 @@ body{
     background-color: #ab0303;
 }
 
-#header h1{
+.big-text{
     font-size: 3rem;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#header img{
+    width: 60%;
+}
+
+.rifa{
+    background-color: #6f0103;
+}
+
+.hat-icon{
+    width: 1rem;
+    height: 1rem;
+}
+
+.cart-icon{
+    width: 2rem;
+    height: 2rem;
 }
